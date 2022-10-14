@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Lucas Gaston Soria</h1>
 <h3 align="center">Diseñador grafico y desarrollador front end</h3>
 
-- 🌱 I’m currently learning **NodeJs,Python, ingles, ux skills**
+- 🌱 I’m currently learning **NodeJs,Python, English, UX skills**
 
 - 👨‍💻 All of my projects are available at [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
 
