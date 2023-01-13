@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Lucas Gaston Soria</h1>
 <h3 align="center">Diseñador grafico y desarrollador front end</h3>
 
-- 🌱 Hoy en dia estoy aprendiendo sobre **ReactJS+Redux, NodeJs,Python,PHP, English**
+- 🌱 Hoy en dia estoy aprendiendo sobre **ReactJS+Redux, NodeJs,Python,PHP e Ingles**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
 
