@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, Soy Lucas Gaston Soria</h1>
 <h3 align="center">Diseñador grafico y desarrollador front end</h3>
 
-- 🌱 I’m currently learning **NodeJs,Python, English, UX skills**
+- 🌱 Hoy en dia estoy aprendiendo sobre **ReactJS+Redux, NodeJs,Python,PHP, English**
 
-- 👨‍💻 All of my projects are available at [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
+- 💬 Me podes preguntar sobre **HTML, CSS, JavaScript, ReactJs**
 
-- 📫 How to reach me **Lucas_s96@outlook.com**
+- 📫 Y podes escribirme a **Lucas_s96@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-soria-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-soria-g/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/lucas_soria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/lucas_soria" height="30" width="40" /></a>
