@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
 
-- 💬 Me podes preguntar sobre **HTML, CSS, JavaScript, ReactJs**
+- 💬 Me podes preguntar sobre **HTML, CSS, JavaScript y ReactJs**
 
 - 📫 Y podes escribirme a **Lucas_s96@outlook.com**
 
