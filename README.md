@@ -3,7 +3,7 @@
 
 - 🌱 Hoy en dia estoy aprendiendo sobre **ReactJS+Redux, NodeJs,Python,PHP e Ingles**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portfolio/)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://lg-soria.github.io/portfolio/](https://lg-soria.github.io/portafolio/)
 
 - 💬 Me podes preguntar sobre **HTML, CSS, JavaScript y ReactJs**
 
