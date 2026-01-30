@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://lg-soria.github.io/portafolio/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://lg-soria.com.ar/" target="_blank"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/lucas-soria-g/" target="_blank"><b>LinkedIn</b></a> •
-  <a href="mailto:Lucas_s96@outlook.com"><b>Email</b></a> •
+  <a href="mailto:lgsoria.dev@gmail.com"><b>Email</b></a> •
   <a href="https://www.behance.net/lucas_soria" target="_blank"><b>Behance</b></a>
 </p>
 
